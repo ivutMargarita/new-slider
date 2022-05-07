@@ -750,9 +750,6 @@ h4{
 }
 
 @media (max-width: 400px) {
-.title_k{
-    font-size: 24px;
-  }
   h5, h6{
     font-size: 12px;
   }
