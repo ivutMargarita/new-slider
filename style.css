@@ -706,6 +706,8 @@ h4{
 }
 
 @media (max-width: 600px) {
+.h2{
+font-size: 20px;	
 .title_k{
     font-size: 24px;
   }
