@@ -706,6 +706,9 @@ h4{
 }
 
 @media (max-width: 600px) {
+.title_k{
+    font-size: 27px;
+  }
   header, footer{
     height: 7.2vh;
   }
@@ -747,6 +750,9 @@ h4{
 }
 
 @media (max-width: 400px) {
+.title_k{
+    font-size: 24px;
+  }
   h5, h6{
     font-size: 12px;
   }
