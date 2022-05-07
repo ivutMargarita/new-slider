@@ -455,6 +455,7 @@ h2{
   font-size: 30px;
   color: #f6eee4;
   margin: 0;
+  text-align: center;
 }
 .stars{
   width: 20%;
@@ -492,7 +493,7 @@ h5{
   margin: 0;
   font-family: 'Montserrat';
   font-weight:500;
-  font-size: 14px;
+  font-size: 15px;
   color: #f6eee4;
   text-align: justify;
   line-height: 130%;
@@ -692,14 +693,14 @@ h4{
   .stars{
     width: 30%;
   }
-  .wrap{
+  .wrap, .wrap1, .wrap2, .wrap3, .wrap4{
     height: 70vh;
   }
-  .melkie .mel_bul{
+  .melkie .mel_bul, .melkie1 .mel_bul1, .melkie2 .mel_bul2, .melkie3 .mel_bul3, .melkie4 .mel_bul4 {
     width: 95%;
     margin: 0 auto;
 }
-  .melkie .mel_bul li {
+.melkie .mel_bul li, .melkie1 .mel_bul1 li, .melkie2 .mel_bul2 li, .melkie3 .mel_bul3 li, .melkie4 .mel_bul4 li  {
     width: 20%;
 }
 }
